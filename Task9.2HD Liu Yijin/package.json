@@ -1,0 +1,21 @@
+{
+  "name": "10.1router",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node router.js"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "mongoose": "^5.10.7",
+    "node-fetch": "^2.6.1",
+    "showapi-sdk": "^1.0.4",
+    "urlencode": "^1.1.0",
+    "validator": "^13.1.17"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "md5": "^2.3.0",
+    "uuid": "^8.3.1"
+  }
+}

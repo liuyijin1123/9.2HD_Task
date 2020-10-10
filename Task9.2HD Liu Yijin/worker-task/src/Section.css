@@ -1,0 +1,22 @@
+.Frame {
+    background-color: darkgrey;
+}
+.Header {
+    background-color: bisque;
+    font-family: Calibri, monospace;
+    margin-bottom: 1%;
+    padding-left: 1%;
+}
+
+.Content {
+    background-color: darkgrey;
+    color: white;
+    font-family: Calibri, monospace;
+    margin-bottom: 1%;
+    padding-left: 1%;
+}
+
+.Button {
+    margin-top: 2%;
+    padding-bottom: 2%;
+}
